@@ -2,13 +2,16 @@
 Full documentation will be released within a week
 
 ## Content
-* [Requirements]
+* [Requirements](#requirement) (In Progress)
 * [Usage](#usage)
-  + [Using TableView](#using-tableView)
-  + [Using CollectionView] (In Progress)
-* [Custom Cell] (In Progress)
-* [Cell catalog] (In Progress)
-* [Installation] (In Progress)
+  + [Using TableView](#using-tableview)
+  + [Using CollectionView](#using-collectionview) (In Progress)
+* [Custom Cell](#custom-cell) (In Progress)
+* [Cell catalog](#cell-catalog) (In Progress)
+* [Installation](#instalation) (In Progress)
+
+## Requirement
+In Progress
 
 ## Usage
 ### Using TableView
@@ -46,3 +49,14 @@ func populateCell() {
     tableView.reloadData()
 }
 ```
+### Using CollectionView
+In progress
+
+## Custom Cell
+In progress
+
+## Cell Catalog
+In progress
+
+## Instalation
+In progress
