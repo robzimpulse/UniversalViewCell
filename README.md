@@ -3,14 +3,15 @@ Full documentation will be released within a week
 
 ## Content
 * [Requirements]
-* [Usage]
-  + [Using TableView]
+* [Usage](#usage)
+  + [Using TableView](#using-tableView)
   + [Using CollectionView] (In Progress)
 * [Custom Cell] (In Progress)
 * [Cell catalog] (In Progress)
 * [Installation] (In Progress)
 
-## Using TableView
+## Usage
+### Using TableView
 ```swift
 var presenter: TVPresenter = TVPresenter()
 @IBOutlet weak var tableView: UITableView!
